@@ -29,8 +29,8 @@ Escola Estudante
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color:DarkOrchid;
+    background-image: linear-gradient(#9932CC,#9370DB);
+    color:white;
     display: flex;
     justify-content: center;
     align-items: center;

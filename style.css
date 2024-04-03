@@ -7,13 +7,13 @@ body {
 }
 .cabecalho {
     background-color: #9400D3;
-    color: DarkViolet;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
-
+Escola Estudante
 .cabecalho-imagem{
     width: 10%;
 }

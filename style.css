@@ -6,8 +6,8 @@ body {
     font-family: 'arial', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
-    color: purple;
+    background-color: #9400D3;
+    color: DarkViolet;
     display: flex;
     justify-content: space-around;
     align-items: center;
